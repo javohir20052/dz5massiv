@@ -1,0 +1,15 @@
+C:\dzodnomerniy_c#\bin\Debug\net6.0\dzodnomerniy_c#.exe
+C:\dzodnomerniy_c#\bin\Debug\net6.0\dzodnomerniy_c#.deps.json
+C:\dzodnomerniy_c#\bin\Debug\net6.0\dzodnomerniy_c#.runtimeconfig.json
+C:\dzodnomerniy_c#\bin\Debug\net6.0\dzodnomerniy_c#.dll
+C:\dzodnomerniy_c#\bin\Debug\net6.0\dzodnomerniy_c#.pdb
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.csproj.AssemblyReference.cache
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.AssemblyInfoInputs.cache
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.AssemblyInfo.cs
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.csproj.CoreCompileInputs.cache
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.dll
+C:\dzodnomerniy_c#\obj\Debug\net6.0\refint\dzodnomerniy_c#.dll
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.pdb
+C:\dzodnomerniy_c#\obj\Debug\net6.0\dzodnomerniy_c#.genruntimeconfig.cache
+C:\dzodnomerniy_c#\obj\Debug\net6.0\ref\dzodnomerniy_c#.dll
